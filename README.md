@@ -6,7 +6,7 @@ https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 ## 副産物
 
-[PPM/PGM Viewer for Visual Studio Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ngtystr.ppm-pgm-viewer-for-vscode) を利用させていただきました．使ってみて，自分が欲しいと思った機能をいくつか追加させていただきました．
+[PPM/PGM Viewer for Visual Studio Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ngtystr.ppm-pgm-viewer-for-vscode) を利用しました．使ってみて，自分が欲しいと思った機能をいくつか追加させていただきました．
 
 - [Add zooming in/out with `ctrl` key + mouse scroll  feature by szk18 · Pull Request #10 · nagata-yoshiteru/ppm-pgm-viewer-for-vscode](https://github.com/nagata-yoshiteru/ppm-pgm-viewer-for-vscode/pull/10)
 
